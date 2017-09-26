@@ -7,17 +7,17 @@ About
 Set up the environment
 
 1.  First configure the Hadoop cluster:
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Foldgittroy%2FShareDoop%2FAzureHDITemplate.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Foldgittroy%2FShareDoop%2Fmaster%2FAzureHDITemplate.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
 2.  Second, install the edge related PaaS componets:
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Foldgittroy%2FShareDoop%2FAzureHDITemplate.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Foldgittroy%2FShareDoop%2Fmaster%2FAzureHDITemplate.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
 3.  Third, install the Storage compoents
-<a ref="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Foldgittroy%2FShareDoop%2FAzureHDITemplate.json" target="_blank">
+<a ref="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Foldgittroy%2FShareDoop%2Fmaster%2FAzureHDITemplate.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
