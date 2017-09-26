@@ -238,9 +238,7 @@
                 "subnet": "[concat(resourceId('Microsoft.Network/virtualNetworks', variables('virtualNetworkName')), '/subnets/', variables('headNodeSubnetName'))]"
               },
               "scriptActions": [
-                {
-                  "name": "headnode_installs"
-                
+                {                
                 }
               ]
             },
@@ -262,7 +260,6 @@
               },
               "scriptActions": [
                 {
-                  "name": "worker_installs"
                 }
               ]
             }
