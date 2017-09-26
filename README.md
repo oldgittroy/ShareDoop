@@ -4,6 +4,18 @@ Data Science Experiments on SharePoint
 About
 ======
 
+Set up the environment
+
+Metadata Classification System
+
+Migration Analyisis System
+
+
+Concepts
+=========
+
+Lambda Architecture
+
 
 History
 =======
